@@ -1,2 +1,5 @@
 #Não fazer upload do script de banco de dados
 *.sql
+
+#não fazer upload dos arquivos .class da pasta bin
+bin/br/com/clinica/domain/*.class
